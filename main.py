@@ -38,7 +38,7 @@ def get_temp():
 temp1 = StringVar()
 temp2 = StringVar()
 
-
+#Labels and Buttons
 Height = Entry(root,textvariable = temp1)
 Height.grid(row=0,padx= 10,pady =50)
 
